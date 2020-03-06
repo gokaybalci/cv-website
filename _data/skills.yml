@@ -28,7 +28,7 @@
   skills:
     - class: gitlab-plain
       skill_name: Jekyll
-    - class: wordpress-original
+    - class: wordpress-plain
       skill_name: Wordpress
     - class: github-plain
       skill_name: GitHub Pages
