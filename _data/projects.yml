@@ -1,17 +1,11 @@
 - id: 2
-  title: Tic tac toe
-  url: https://tic-or-treat.herokuapp.com/
-  github_url: https://github.com/nyc-bobolinks-2016/tic_or_treat
-  description: A simple tic-tac-toe game allowing both registered and unregistered users to play against a computer. Logged-in users have the benefit of viewing various statistics about their past games and resuming unfinished games.
+  title: Interactive Appboard
+  url: https://gokaybalci.com/map.html
+  github_url: 
+  description: An interactive map that includes education related application list overlay that is based on a keyboard layout. It can be used as a base in technology based language classes.
   technologies: [
                   html5-plain,
-                  css3-plain-wordmark
-                  javascript-plain,
-                  react-original,
-                  ruby-plain,
-                  rails-plain,
-                  postgresql-plain,
-                  heroku-original
+                  
                 ]
   cover: /assets/images/project_covers/tic-tac-toe-cover.jpg
   images: [
@@ -21,34 +15,20 @@
   ]
 
 - id: 3
-  title: Stack Overflow Clone
-  url: https://dbc-hackoverflow.herokuapp.com/
-  github_url: https://github.com/wvicioso/hackoverflow
-  description: A standard discussion board app that's an attempt at a very simple version of the popular programming platform <a href='stackoverflow.com'>StackOverflow</a>. It allows users to ask questions, give answers and make comments as well as vote up or down on each of the above.
-  technologies: [
-                  html5-plain,
-                  css3-plain-wordmark,
-                  javascript-plain,
-                  ruby-plain,
-                  sinatra-plain,
-                  postgresql-plain,
-                  heroku-original,
-                  materialize-plain
-                ]
+  title: Lazuri Alboni / Lazca Alphabet Practice Software
+  url: https://github.com/gokaybalci/Lazuri-Alboni/
+  github_url: https://github.com/gokaybalci/Lazuri-Alboni/
+  description:  Simple application for practicing Lazuri alphabet with appropriate soundbites.
+
   cover: /assets/images/project_covers/hack-overflow-cover.png
   images: [
     '/assets/images/project_covers/hack-overflow-cover.png'
   ]
 - id: 4
-  title: ShootThingsGame
-  url: https://levytsroman.github.io/shootThingsGame/
-  github_url: https://github.com/LevytsRoman/shootThingsGame
-  description: A small javaScript browser game, featuring a red plane (player) and an unhealthy onslaught of enemy planes flying over a pictureque rendering of my favorite planet (Earth) in MS Paint.
-  technologies: [
-                  html5-plain,
-                  css3-plain-wordmark,
-                  javascript-plain
-                ]
+  title: Nevrosa Spider Song (Translation)
+  url: https://store.steampowered.com/app/1087970/Nevrosa_Spider_Song/?snr=1_api_2100__2105
+  github_url: https://steamcommunity.com/games/1087970/announcements/detail/1597006468472177318
+
   cover: /assets/images/project_covers/shoot-things-game-cover.png
   images: [
     '/assets/images/project_covers/shoot-things-game-cover.png'

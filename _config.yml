@@ -22,7 +22,7 @@ about_me: >
   I'm a recent Foreign Language Education graduate going into business from a language background. I can work anytime, anywhere with all the latest tools readily available at my fingertips.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gokaybalci.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-linked_in_link: "https://www.linkedin.com/in/gokaybalci"
+linked_in_link: "https://www.linkedin.com/in/gokay-balci"
 github_link: "https://www.github.com/gokaybalci"
 twitter_username: ""
 google_analytics_id: ''
