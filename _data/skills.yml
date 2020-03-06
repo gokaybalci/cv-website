@@ -1,77 +1,34 @@
-- name: web
+- name: languages (comp.)
   skills:
-    - class: html5-plain
-      skill_name: HTML5
-    - class: css3-plain
-      skill_name: CSS3
-    - class: sass-plain
-      skill_name: SASS
-    - class: bootstrap-plain
-      skill_name: Bootstrap
-    - class: jquery-plain
-      skill_name: jQuery
-
-- name: languages
-  skills:
-    - class: javascript-plain
-      skill_name: JavaScript
     - class: python-plain
       skill_name: Python
-    - class: ruby-plain
-      skill_name: Ruby
 
-- name: databases
+- name: languages (human)
   skills:
     - class: postgresql-plain
-      skill_name: Postgresql
+      skill_name: Turkish (Native)
     - class: mongodb-plain
-      skill_name: MongoDB
+      skill_name: English (Professional)
     - class: mysql-plain
-      skill_name: MySQL
+      skill_name: Russian (Elementary)
 
-- name: frontend frameworks
+- name: software
   skills:
     - class: react-plain
-      skill_name: React
+      skill_name: Microsoft Office
     - class: angularjs-plain
-      skill_name: Angular
+      skill_name: LibreOffice Suite
     - class: vuejs-plain
-      skill_name: Vue
-    - class: jekyll-plain
-      skill_name: Jekyll
+      skill_name: Adobe Photoshop / Krita
 
-- name: backend frameworks
+
+- name: web
   skills:
     - class: rails-plain
-      skill_name: Ruby-on-Rails
+      skill_name: Jekyll
     - class: express-original
-      skill_name: Express
-    - class: nodejs-plain
-      skill_name: NodeJS
-    - class: django-plain
-      skill_name: Django
-
-- name: devops
-  skills:
-    - class: git-plain
-      skill_name: Git
+      skill_name: Wordpress
     - class: github-plain
-      skill_name: GitHub
-    - class: heroku-original
-      skill_name: Heroku
-    - class: docker-plain
-      skill_name: Docker
+      skill_name: GitHub Pages
 
-- name: testing
-  skills:
-    - class: mocha-plain
-      skill_name: Mocha
-    - class: jasmine-plain
-      skill_name: Jasmine
-    - class: rspec-plain
-      skill_name: RSpec
 
-- name: mobile
-  skills:
-    - class: react-original
-      skill_name: React Native
