@@ -7,11 +7,10 @@
                   html5-plain,
                   
                 ]
-  cover: /assets/images/project_covers/tic-tac-toe-cover.jpg
+  cover: /assets/images/project_covers/map_cover.png
   images: [
-    '/assets/images/project_images/tic_tac_toe/tictactoe1.png',
-    '/assets/images/project_images/tic_tac_toe/tictactoe2.png',
-    '/assets/images/project_images/tic_tac_toe/tictactoe3.png'
+    '/assets/images/project_images/map/map.jpg'
+
   ]
 
 - id: 3
@@ -20,18 +19,18 @@
   github_url: https://github.com/gokaybalci/Lazuri-Alboni/
   description:  Simple application for practicing Lazuri alphabet with appropriate soundbites.
 
-  cover: /assets/images/project_covers/hack-overflow-cover.png
+  cover: /assets/images/project_covers/laz.png
   images: [
-    '/assets/images/project_covers/hack-overflow-cover.png'
+    '/assets/images/project_covers/laz.png'
   ]
 - id: 4
   title: Nevrosa Spider Song (Translation)
   url: https://store.steampowered.com/app/1087970/Nevrosa_Spider_Song/?snr=1_api_2100__2105
   github_url: https://steamcommunity.com/games/1087970/announcements/detail/1597006468472177318
 
-  cover: /assets/images/project_covers/shoot-things-game-cover.png
+  cover: /assets/images/project_covers/nevrosa-cover.png
   images: [
-    '/assets/images/project_covers/shoot-things-game-cover.png'
+    '/assets/images/project_images/nevrosa/nevrosa.png'
   ]
 # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/
