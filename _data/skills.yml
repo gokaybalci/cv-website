@@ -20,6 +20,8 @@
       skill_name: LibreOffice Suite
     - class: photoshop-plain
       skill_name: Adobe Photoshop / Krita
+    - class: linux-plain
+      skill_name: Lots of CLI applications
 
 
 - name: web
