@@ -14,7 +14,7 @@
 
 - name: software
   skills:
-    - class: react-plain
+    - class: react-plain3
       skill_name: Microsoft Office
     - class: angularjs-plain
       skill_name: LibreOffice Suite
