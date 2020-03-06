@@ -32,3 +32,13 @@
       skill_name: GitHub Pages
 
 
+- name: job experience
+  skills:
+    - class: rails-plain
+      skill_name: Education / Language Teaching
+    - class: express-original
+      skill_name: Export Representative
+    - class: github-plain
+      skill_name: Sales Representative
+
+
