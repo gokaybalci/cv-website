@@ -5,28 +5,28 @@
 
 - name: languages (human)
   skills:
-    - class: postgresql-plain
+    - class: travis-plain
       skill_name: Turkish (Native)
-    - class: mongodb-plain
+    - class: erlang-plain
       skill_name: English (Professional)
-    - class: mysql-plain
+    - class: slack-plain
       skill_name: Russian (Elementary)
 
 - name: software
   skills:
-    - class: react-plain
+    - class: windows8-plain
       skill_name: Microsoft Office
-    - class: angularjs-plain
+    - class: laravel-plain
       skill_name: LibreOffice Suite
-    - class: vuejs-plain
+    - class: photoshop-plain
       skill_name: Adobe Photoshop / Krita
 
 
 - name: web
   skills:
-    - class: rails-plain
+    - class: gitlab-plain
       skill_name: Jekyll
-    - class: express-original
+    - class: wordpress-original
       skill_name: Wordpress
     - class: github-plain
       skill_name: GitHub Pages
@@ -34,9 +34,9 @@
 
 - name: job experience
   skills:
-    - class: rails-plain
+    - class: debian-plain
       skill_name: Education / Language Teaching
     - class: express-original
       skill_name: Export Representative
-    - class: github-plain
+    - class: ssh-plain
       skill_name: Sales Representative
