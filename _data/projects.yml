@@ -32,6 +32,18 @@
   images: [
     '/assets/images/project_images/nevrosa/nevrosa.png'
   ]
+
+- id: 5
+  title: Hawklight
+  description:  Game project, but discontinued.
+  url: 
+  github_url: 
+
+  cover: /assets/images/project_covers/hawk.jpg
+  images: [
+    '/assets/images/project_covers/hawk.jpg'
+  ]
+
 # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/
 #   github_url: https://github.com/LevytsRoman/EngageMe
