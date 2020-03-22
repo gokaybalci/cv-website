@@ -13,7 +13,19 @@
 
   ]
 
+
 - id: 3
+  title: gDiary
+  description:  Diary keeping tool with simple encryption
+  url: https://github.com/gokaybalci/gDiary
+  github_url: https://github.com/gokaybalci/gDiary
+
+  cover: /assets/images/project_covers/gdiary.png
+  images: [
+    '/assets/images/project_covers/gdiary.png'
+  ]
+
+- id: 4
   title: Lazuri Alboni / Lazca Alphabet Practice Software
   url: https://github.com/gokaybalci/Lazuri-Alboni/
   github_url: https://github.com/gokaybalci/Lazuri-Alboni/
@@ -24,16 +36,6 @@
     '/assets/images/project_covers/laz.png'
   ]
 
-- id: 4
-  title: gDiary
-  description:  Diary keeping tool with simple encryption
-  url: https://github.com/gokaybalci/gDiary
-  github_url: https://github.com/gokaybalci/gDiary
-
-  cover: /assets/images/project_covers/gdiary.jpg
-  images: [
-    '/assets/images/project_covers/gdiary.jpg'
-  ]
 
 - id: 5
   title: Nevrosa Spider Song (Translation)
