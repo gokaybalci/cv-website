@@ -23,7 +23,19 @@
   images: [
     '/assets/images/project_covers/laz.png'
   ]
+
 - id: 4
+  title: gDiary
+  description:  Diary keeping tool with simple encryption
+  url: https://github.com/gokaybalci/gDiary
+  github_url: https://github.com/gokaybalci/gDiary
+
+  cover: /assets/images/project_covers/gdiary.jpg
+  images: [
+    '/assets/images/project_covers/gdiary.jpg'
+  ]
+
+- id: 5
   title: Nevrosa Spider Song (Translation)
   url: https://store.steampowered.com/app/1087970/Nevrosa_Spider_Song/?snr=1_api_2100__2105
   github_url: https://steamcommunity.com/games/1087970/announcements/detail/1597006468472177318
@@ -33,7 +45,7 @@
     '/assets/images/project_images/nevrosa/nevrosa.png'
   ]
 
-- id: 5
+- id: 6
   title: Hawklight
   description:  Game project, but discontinued.
   url: 
@@ -43,6 +55,9 @@
   images: [
     '/assets/images/project_covers/hawk.jpg'
   ]
+
+
+
 
 # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/
