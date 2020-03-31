@@ -19,10 +19,6 @@
   description:  Diary keeping tool with simple encryption
   url: https://github.com/gokaybalci/gDiary
   github_url: https://github.com/gokaybalci/gDiary
- technologies: [
-                  python-plain,
-                  
-                ]
   cover: /assets/images/project_covers/gdiary.png
   images: [
     '/assets/images/project_covers/gdiary.png'
