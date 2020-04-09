@@ -30,7 +30,7 @@
   github_url: https://github.com/gokaybalci/CoronaBotTR
   description:  A Telegram bot that gives information about the cases in Turkey, written in Python.
 
-  cover: /assets/images/project_covers/tbot.png
+  cover: /assets/images/project_covers/tbotcover.png
   images: [
     '/assets/images/project_images/tbot.png'
   ]
