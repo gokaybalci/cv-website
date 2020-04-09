@@ -25,6 +25,17 @@
   ]
 
 - id: 4
+  title: Telegram Corona Information Bot (Turkish)
+  url: https://t.me/coronatrbot
+  github_url: https://github.com/gokaybalci/CoronaBotTR
+  description:  A Telegram bot that gives information about the cases in Turkey, written in Python.
+
+  cover: /assets/images/project_covers/tbot.png
+  images: [
+    '/assets/images/project_images/tbot.png'
+  ]
+
+- id: 5
   title: Lazuri Alboni / Lazca Alphabet Practice Software
   url: https://github.com/gokaybalci/Lazuri-Alboni/
   github_url: https://github.com/gokaybalci/Lazuri-Alboni/
@@ -36,7 +47,8 @@
   ]
 
 
-- id: 5
+
+- id: 6
   title: Nevrosa Spider Song (Translation)
   url: https://store.steampowered.com/app/1087970/Nevrosa_Spider_Song/?snr=1_api_2100__2105
   github_url: https://steamcommunity.com/games/1087970/announcements/detail/1597006468472177318
