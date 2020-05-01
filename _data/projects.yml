@@ -36,6 +36,17 @@
   ]
 
 - id: 5
+  title: Stoic Quote - Bash Script
+  url: https://github.com/gokaybalci/stoic-quotes
+  github_url: https://github.com/gokaybalci/stoic-quotes
+  description:  It's simple bash script for displaying Stoic Quotes
+
+  cover: /assets/images/project_covers/epic.png
+  images: [
+    '/assets/images/project_images/epic.png'
+  ]
+
+- id: 6
   title: Lazuri Alboni / Lazca Alphabet Practice Software
   url: https://github.com/gokaybalci/Lazuri-Alboni/
   github_url: https://github.com/gokaybalci/Lazuri-Alboni/
@@ -48,7 +59,7 @@
 
 
 
-- id: 6
+- id: 7
   title: Nevrosa Spider Song (Translation)
   url: https://store.steampowered.com/app/1087970/Nevrosa_Spider_Song/?snr=1_api_2100__2105
   github_url: https://steamcommunity.com/games/1087970/announcements/detail/1597006468472177318
@@ -58,7 +69,7 @@
     '/assets/images/project_images/nevrosa/nevrosa.png'
   ]
 
-- id: 6
+- id: 8
   title: Hawklight
   description:  Game project, but discontinued.
   url: 
