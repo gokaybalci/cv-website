@@ -26,6 +26,12 @@
 
 - name: web
   skills:
+    - class: c-plain
+      skill_name: Canvas - Socrative
+    - class: google-plain
+      skill_name: Google Classroom
+    - class: jasmine-plain
+      skill_name: Prezi 
     - class: gitlab-plain
       skill_name: Jekyll
     - class: wordpress-plain
